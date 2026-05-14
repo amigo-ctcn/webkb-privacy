@@ -46,3 +46,4 @@ WebKB 僅處理使用者主動保存的內容，可能包含：
 
 ## 8. 聯絡方式
 - amigo@ctcn.edu.tw
+- dallmeyer99@gmail.com
